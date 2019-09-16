@@ -1,0 +1,14 @@
+**/*.rs.bk
+*~
+hello
+fun
+arithmetic
+a.out
+cmake_install.cmake
+CMakeFiles/
+build/
+CMakeCache.txt
+.vscode/
+.idea/
+*.iml
+Makefile
